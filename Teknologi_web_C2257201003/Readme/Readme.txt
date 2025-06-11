@@ -11,7 +11,7 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
 
     HTML/CSS: untuk antarmuka pengguna
 
-    JavaScript: untuk interaktivitas tambahan (jika ada)
+    JavaScript: untuk interaktivitas tambahan
 
     Server: XAMPP / LAMP stack
 
