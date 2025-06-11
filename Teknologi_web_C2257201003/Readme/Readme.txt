@@ -9,7 +9,7 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
 
     Database: MySQL (melalui koneksi di koneksi.php)
 
-    HTML/CSS: untuk antarmuka pengguna
+    HTML/CSS/Bootsrap: untuk antarmuka pengguna
 
     JavaScript: untuk interaktivitas tambahan
 
