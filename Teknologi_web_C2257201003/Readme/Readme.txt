@@ -13,7 +13,7 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
 
     JavaScript: untuk interaktivitas tambahan
 
-    Server: XAMPP / LAMP stack
+    Server: XAMPP / Laragon
 
 🌟 Fitur Utama dan Tambahan
 Fitur Utama:
