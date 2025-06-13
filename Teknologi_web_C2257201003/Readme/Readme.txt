@@ -23,7 +23,7 @@ Fitur Utama:
 
     Daftar menu kafe dan detail produk (menu-caffe.php, detail.php)
 
-    Pemesanan sementara dengan penyimpanan sesi atau basis data (pesan-sementara.php)
+    Pemesanan sementara dengan penyimpanan sesi atau basis data (index.php)
 
     Header dan footer dinamis untuk tampilan konsisten (header.php, footer.php)
 
