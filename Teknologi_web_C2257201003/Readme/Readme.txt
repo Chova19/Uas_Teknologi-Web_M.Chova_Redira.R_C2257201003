@@ -11,7 +11,7 @@ HTML/CSS/Bootstrap: untuk antarmuka pengguna
 JavaScript: untuk interaktivitas tambahan 
 Server: XAMPP / Laragon
 
-🌟Fitur Utama:
+🌟 Fitur Utama:
 
 Web Dinamis dengan forntend dan backand
 Autentikasi login pengguna (login.php)
