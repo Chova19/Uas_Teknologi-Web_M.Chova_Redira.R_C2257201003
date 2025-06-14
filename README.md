@@ -12,8 +12,7 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
     JavaScript: untuk interaktivitas tambahan 
     Server: XAMPP / Laragon
 
-🌟 Fitur Utama dan Tambahan
-Fitur Utama:
+🌟 Fitur Utama:
 
     Web Dinamis dengan forntend dan backand
     Autentikasi login pengguna (login.php)
