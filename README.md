@@ -14,25 +14,18 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
 🌟 Fitur Utama dan Tambahan
 Fitur Utama:
 
-    	Autentikasi login pengguna (login.php)
-
-    	Daftar menu cafe dan detail produk (menu-caffe.php, detail.php)
-
-    	Pemesanan sementara dengan penyimpanan sesi  (Di dalam Index.php)
-
-    	Header dan footer dinamis untuk tampilan konsisten (header.php, footer.php) 
-     
-     	Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapatan
+    Autentikasi login pengguna (login.php)
+    Daftar menu cafe dan detail produk (menu-caffe.php, detail.php)
+    Pemesanan sementara dengan penyimpanan sesi  (Di dalam Index.php)
+    Header dan footer dinamis untuk tampilan konsisten (header.php, footer.php) 
+    Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapatan
 
 Fitur Tambahan:
 
-    	Validasi input dari pengguna
-
-	Tiap Aksi atau tombol untuk pelakukan proses ada konfirmasi notifikasi sistem
-	
-   	Tampilan dinamis berdasarkan data dari database dan local storage
-
-    	Struktur kode terpisah untuk kemudahan pemeliharaan 
+    Validasi input dari pengguna
+    Tiap Aksi atau tombol untuk pelakukan proses ada konfirmasi notifikasi sistem
+    Tampilan dinamis berdasarkan data dari database dan local storage
+    Struktur kode terpisah untuk kemudahan pemeliharaan 
 
 ▶️ Cara Menjalankan Aplikasi
 
