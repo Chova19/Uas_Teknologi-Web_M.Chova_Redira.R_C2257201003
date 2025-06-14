@@ -7,7 +7,7 @@
 	<!-- form menu caffe -->
 	<center>
 		<h2>Tambah Menu Caffe</h2>
-		<a href="menu-caffe.php">Kembali</a> :: <a href="#">Logout</a>
+		<a href="menu-caffe.php">Kembali</a> :: <a href="keluar.php">Logout</a>
 		<br><br>
 	</center>
 
