@@ -27,11 +27,13 @@ Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapata
 
 Fitur Tambahan:
 
-Validasi input dari pengguna
+Desain yang responsif
+Validasi data dan fitur keamanan pencegahan masuk menuju menu admin tanpa login
 Tiap Aksi atau tombol untuk pelakukan proses ada konfirmasi notifikasi sistem
 jam waktu terkini didalam fungsi.php 
 Tampilan dinamis berdasarkan data dari database dan local storage
 Struktur kode terpisah untuk kemudahan pemeliharaan 
+
 
 ▶️ Cara Menjalankan Aplikasi
 
