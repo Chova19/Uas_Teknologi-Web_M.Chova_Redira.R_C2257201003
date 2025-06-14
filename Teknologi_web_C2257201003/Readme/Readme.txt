@@ -29,13 +29,11 @@ Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapata
 
 Fitur Tambahan:
 
-    	Validasi input dari pengguna
-
-	Tiap Aksi atau tombol untuk pelakukan proses ada konfirmasi notifikasi sistem
-	
-   	Tampilan dinamis berdasarkan data dari database dan local storage
-
-    	Struktur kode terpisah untuk kemudahan pemeliharaan 
+Validasi input dari pengguna
+Tiap Aksi atau tombol untuk pelakukan proses ada konfirmasi notifikasi sistem
+jam waktu terkini didalam fungsi.php 
+Tampilan dinamis berdasarkan data dari database dan local storage
+Struktur kode terpisah untuk kemudahan pemeliharaan 
 
 ▶️ Cara Menjalankan Aplikasi
 
