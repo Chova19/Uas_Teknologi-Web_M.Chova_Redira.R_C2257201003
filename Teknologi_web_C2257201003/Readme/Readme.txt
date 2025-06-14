@@ -1,4 +1,4 @@
-📋 Sistem Pemesanan Menu cafe berbasis Web
+📋 Sistem Pemesanan Menu Cafe Berbasis Web
 
 📝 Deskripsi Proyek
 
