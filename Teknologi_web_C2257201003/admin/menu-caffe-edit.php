@@ -14,7 +14,7 @@ $data_menu = $query->fetch(PDO::FETCH_OBJ);
 	<!-- form menu cafe -->
 	<center>
 		<h2>Ubah Menu Caffe</h2>
-		<a href="menu-caffe.php">Kembali</a> : :  <a href="keluar.php">Keluar</a>
+		<a href="menu-caffe.php">Kembali</a> : :  <a href="keluar.php">Logout</a>
 		<br><br>
 	</center>
 
