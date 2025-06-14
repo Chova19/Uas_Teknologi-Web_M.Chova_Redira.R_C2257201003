@@ -45,7 +45,7 @@ Fitur Tambahan:
 
     Konfigurasi Database
 
-        Buat database baru di phpMyAdmin/Adminer, sesuaikan konfigurasi koneksi pada koneksi.php.
+        Buat database baru dengan nama c2257201003 di phpMyAdmin/Adminer, sesuaikan konfigurasi koneksi pada koneksi.php.
 
         Import struktur dan data tabel (Didalam Folder DB, mohon pastikan Anda memiliki file SQL jika diperlukan).
 
