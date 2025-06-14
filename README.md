@@ -6,14 +6,10 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
 ⚙️ Teknologi yang Digunakan
 
     Bahasa Pemrograman: PHP
-
     Database: MySQL (melalui koneksi di koneksi.php)
-     
-	HTML/CSS/Bootstrap: untuk antarmuka pengguna
-
-    	JavaScript: untuk interaktivitas tambahan 
-
-    	Server: XAMPP / Laragon
+    HTML/CSS/Bootstrap: untuk antarmuka pengguna
+    JavaScript: untuk interaktivitas tambahan 
+    Server: XAMPP / Laragon
 
 🌟 Fitur Utama dan Tambahan
 Fitur Utama:
