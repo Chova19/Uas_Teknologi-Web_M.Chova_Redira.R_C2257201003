@@ -28,7 +28,7 @@ Fitur Tambahan:
 
 Desain yang responsif
 Validasi data dan fitur keamanan pencegahan masuk menuju menu admin tanpa login
-Tiap Aksi atau tombol untuk pelakukan proses ada konfirmasi notifikasi sistem
+Tiap Aksi atau tombol untuk melakukan proses ada konfirmasi notifikasi sistem
 jam waktu terkini didalam fungsi.php 
 Tampilan dinamis berdasarkan data dari database dan local storage
 Struktur kode terpisah untuk kemudahan pemeliharaan 
