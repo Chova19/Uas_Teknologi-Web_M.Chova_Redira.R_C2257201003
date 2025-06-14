@@ -9,7 +9,7 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
 
     	Database: MySQL (melalui koneksi di koneksi.php)
 
-   	HTML/CSS/Bootstrap: untuk antarmuka pengguna
+	  HTML/CSS/Bootstrap: untuk antarmuka pengguna
 
     	JavaScript: untuk interaktivitas tambahan 
 
@@ -26,7 +26,7 @@ Fitur Utama:
 
     	Header dan footer dinamis untuk tampilan konsisten (header.php, footer.php) 
 
-	Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapatan
+	  Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapatan
 
 Fitur Tambahan:
 
