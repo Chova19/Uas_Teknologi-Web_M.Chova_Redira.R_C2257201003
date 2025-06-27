@@ -54,12 +54,10 @@ Fitur Tambahan:
         Buka http://localhost/nama-folder-proyek/index.php melalui browser.
 
 
-
-Username dan password  Menu Admin : chova - chova
-
 Screenshot Aplikasi Sistem Informasi Pemesanan Menu Cafe Berbasis Web
 
 ![Screenshot 2025-06-14 071722](https://github.com/user-attachments/assets/52c8f08c-677b-4245-a2c5-393ea7de7109)
+![Screenshot 2025-06-15 003008](https://github.com/user-attachments/assets/4ed42d6f-2985-491b-a9d8-fd37d2942fc7)
 ![Screenshot 2025-06-14 071803](https://github.com/user-attachments/assets/de5b0f85-8f3f-4497-bec1-a6d0e8aae11d)
 ![Screenshot 2025-06-14 071959](https://github.com/user-attachments/assets/6480e11a-32b2-4d4d-959d-fe9f67ab3c63)
 ![Screenshot 2025-06-14 072038](https://github.com/user-attachments/assets/da61fb78-81a6-48d7-9a57-036b4e999aa1)
@@ -84,11 +82,12 @@ Screenshot Aplikasi Sistem Informasi Pemesanan Menu Cafe Berbasis Web
 ![Screenshot 2025-06-14 074432](https://github.com/user-attachments/assets/fb053abf-514e-4986-86b0-20a8309a47ab)
 ![Screenshot 2025-06-14 074506](https://github.com/user-attachments/assets/809a4090-4ffe-4d8a-bb5a-ae6174cf0d61)
 ![Screenshot 2025-06-14 074546](https://github.com/user-attachments/assets/7ea1a487-c6d5-4bd4-83c7-202d838da026)
-![Screenshot 2025-06-15 003008](https://github.com/user-attachments/assets/4ed42d6f-2985-491b-a9d8-fd37d2942fc7)
 
 
 
 
+
+Username dan password  Menu Admin : chova - chova
 
 
 
