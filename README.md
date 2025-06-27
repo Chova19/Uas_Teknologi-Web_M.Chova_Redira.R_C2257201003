@@ -24,7 +24,7 @@ Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan me
     Header dan footer dinamis untuk tampilan konsisten (header.php, footer.php) 
     Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapatan
 
-Fitur Tambahan:
+🖥️ Fitur Tambahan:
 
     Desain yang responsif
     Validasi data dan fitur keamanan pencegahan masuk menuju menu admin tanpa login
@@ -54,7 +54,7 @@ Fitur Tambahan:
         Buka http://localhost/nama-folder-proyek/index.php melalui browser.
 
 
-Screenshot Aplikasi Sistem Informasi Pemesanan Menu Cafe Berbasis Web
+📷 Screenshot Aplikasi Sistem Informasi Pemesanan Menu Cafe Berbasis Web
 
 ![Screenshot 2025-06-14 071722](https://github.com/user-attachments/assets/52c8f08c-677b-4245-a2c5-393ea7de7109)
 ![Screenshot 2025-06-15 003008](https://github.com/user-attachments/assets/4ed42d6f-2985-491b-a9d8-fd37d2942fc7)
@@ -87,7 +87,7 @@ Screenshot Aplikasi Sistem Informasi Pemesanan Menu Cafe Berbasis Web
 
 
 
-Username dan password  Menu Admin : chova - chova
+🔑 Username dan password  Menu Admin : chova - chova
 
 
 
