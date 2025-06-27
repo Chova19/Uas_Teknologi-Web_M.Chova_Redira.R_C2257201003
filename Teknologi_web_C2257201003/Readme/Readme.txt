@@ -3,6 +3,7 @@
 📝 Deskripsi Proyek
 
 Sistem ini merupakan aplikasi berbasis web untuk memudahkan pelanggan memesan menu di sebuah kafe secara online. Aplikasi menyediakan fitur katalog menu, detail produk, sistem pemesanan sementara, dan manajemen data pengguna. Proyek ini dibangun menggunakan PHP dengan struktur modular yang terdiri dari beberapa file utama seperti index.php, login.php, dan menu-caffe.php dll.
+
 ⚙️ Teknologi yang Digunakan
 
 Bahasa Pemrograman: PHP
@@ -24,7 +25,7 @@ Header dan footer dinamis untuk tampilan konsisten (header.php, footer.php)
 Cetak Pdf Untuk mencetak dan Melihat Laporan Pesanan Selesai Dan total Pendapatan
 
 
-Fitur Tambahan:
+🖥️ Fitur Tambahan:
 
 Desain yang responsif
 Validasi data dan fitur keamanan pencegahan masuk menuju menu admin tanpa login
@@ -56,5 +57,5 @@ Struktur kode terpisah untuk kemudahan pemeliharaan
 
 
 
-Username dan password  Menu Admin : chova - chova
+🔑 Username dan password  Menu Admin : chova - chova
 
